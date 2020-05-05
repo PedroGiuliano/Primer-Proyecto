@@ -1,0 +1,62 @@
+p.lineatotal {
+    position: relative;
+    left: 180px;
+    
+}
+
+
+#telefono {
+    text-align:right;
+}
+
+
+#fondoceleste {
+    background-color: aquamarine
+   
+    
+}
+
+#tamañodeletra {
+   position: relative;
+  width: 1250px;
+  height: 70px;
+    font-size: 1.5em;
+  background-color:#ff8000;
+  
+     
+      }
+#fondonaranja {
+background-color:#FF8000;  
+       
+
+
+    }
+#telefono {
+    
+    position: relative;
+    left: 80%;
+    bottom: 100px;
+    width: 70px;
+    height: 50px;
+    
+    background-color:#FFFF00;   
+
+    
+    }
+
+#body {
+    
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+        }
+#Call {
+    text-align: center;
+
+}
+#numero {
+    text-align: center;
+    width: 70px;
+    height: 50px;
+}
